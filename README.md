@@ -1,7 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinsandor707&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinsandor707&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martinsandor707&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=martinsandor707&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martinsandor707&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=martinsandor707&theme=github_dark)
 <!--
 **martinsandor707/martinsandor707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
